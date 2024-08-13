@@ -1,3 +1,8 @@
-# commandpgb
-A Command Line Progressbar
-its very useful
+-Hello there, I just came up with this new application, commandline progressbar.
+-Took a couple hours, but i did it.
+-Progressbar.cpp is basically the tutorial for using / customizing it.
+-The No Comment version is NCProgressbar.cpp.
+-I ask simply that if you use this tool, include me in the projects credits as 
+   -javakotlinuser@gmail.com. // Progressbar Tool-
+-I should make a file extension for customizing this bar, maybe tomorrow.
+-btw its slow with vscode themes
